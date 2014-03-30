@@ -1,6 +1,6 @@
 Demos NodeJS and Johnny-Five
 ==
-NodeBots are robots controlled using node.js, This repository shows code created by me at NodeBotsGt community, if you want to know more about events can be found here [here] (http://www.meetup.com/Innovation-Guatemala/events/169977662/)
+NodeBots are robots controlled using node.js, This repository shows code created by me at NodeBotsGt community, if you want to know more about events [here] (http://www.meetup.com/Innovation-Guatemala/events/169977662/)
 
 ## API Documentation
 
